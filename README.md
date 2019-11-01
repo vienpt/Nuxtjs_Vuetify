@@ -1,5 +1,7 @@
 # Nuxtjs_Vuetify
 
+Authenticate here: https://github.com/vienpt/IdentityServer4
+
 ## Nuxt generate admin management
 
 ```bash
